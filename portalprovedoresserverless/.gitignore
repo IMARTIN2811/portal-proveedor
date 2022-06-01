@@ -1,0 +1,12 @@
+.now
+node_modules
+
+# Environment Variables
+.env
+<<<<<<< HEAD
+.env.build
+.vercel
+=======
+.env.build
+.vercel
+>>>>>>> e4f6716 (Nuevo repositorio serveless)
